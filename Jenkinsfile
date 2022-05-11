@@ -1,4 +1,4 @@
-podTemlate(yaml:"""
+podTemlate(yaml: """
 apiVersion: v1
 kind: Pod
 metadata:
